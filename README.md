@@ -49,4 +49,4 @@ The output should look something like:
 ```-rw------- 1 root root 32 Month Day Timestamp root.txt```
 
 
-13. The environment is now complete; you may begin the CTF. 
+13. The environment setup is now complete; you may begin the CTF by starting LAMPP with: ```sudo /opt/lampp/lampp start```.
