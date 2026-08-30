@@ -1,0 +1,3 @@
+TODO: Change the root password from [PASSWORD_PLACEHOLDER] to something more secure.
+TODO: Get rid of my old files.
+TODO: Do something about that user.txt file since we don't need it anymore.
