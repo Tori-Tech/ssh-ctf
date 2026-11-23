@@ -50,3 +50,6 @@ The output should look something like:
 
 
 13. The environment setup is now complete; you may begin the CTF by starting LAMPP with: ```sudo /opt/lampp/lampp start```.
+
+
+Note: If you find yourself stuck or are simply curious to see the solution, you can view the write-up on my blog [here](https://tori-tech.github.io/posts/SSH-Writeup/).
