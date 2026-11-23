@@ -42,7 +42,7 @@ You should see ```developer``` instead of ```root```.
 
 
 12. Verify the command succeeded with: 
-```ls -l /root/root.txt``
+``ls -l /root/root.txt``
 
 The output should look something like:
 
